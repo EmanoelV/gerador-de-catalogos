@@ -1,1 +1,1 @@
-# gerador-de-cat-logos
+# gerador-de-catalogos
